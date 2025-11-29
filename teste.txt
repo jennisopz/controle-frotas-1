@@ -1,3 +1,7 @@
 asdoasdo
 
+<<<<<<< HEAD
 Palmeiras será campeão hoje
+=======
+Palmeiras será campeão hoje
+>>>>>>> d0d0ce51ca3d36899dc10504a268c271541fb116
